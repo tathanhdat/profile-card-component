@@ -7,11 +7,13 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 -   Build out the project to the designs provided
 
 ### Screenshot
+Desktop Version
+![Desktop screenshot](https://github.com/tathanhdat/profile-card-component/blob/main/Screenshot-desktop.png)
+Mobile Version
+![Mobile Screenshot](https://github.com/tathanhdat/profile-card-component/blob/main/Screenshot-mobile.png)
 
 ### Links
-
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   [Live Site](https://tathanhdat.github.io/profile-card-component/)
 
 ### Built with
 
